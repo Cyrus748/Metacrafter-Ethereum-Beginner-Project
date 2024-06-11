@@ -6,6 +6,9 @@ This Solidity program is a contract that creates an Token and sent to users/addr
 This program is a smart contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has 6 functions, i.e. Mint, Burn and 4 Getter functions. By using the mint function we can add more tokens to the total supply and send tokens to address and by using the burn function we can remove the tokens from total supply and also remove it from the address. I have also added a check measure where if the current balance of the user is less than the amount that is entered to be burned the transaction will fail
 
 ### Getting Started
+## Authors
+
+Aditya Negi <a href="https://www.linkedin.com/in/adityanegi748/">[!LinkedIn]</a>
 
 ## Executing program
 
@@ -69,11 +72,8 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 
 Once the contract is deployed, you can interact with it by calling the available functions. Click on the "MyToken" contract in the left-hand sidebar, and then click on the "totalSupply" function to see the total supply of the token. Execute different functions and try out the contract.
 
-javascript```
 
 
-## Authors
 
-Aditya Negi <a href="https://www.linkedin.com/in/adityanegi748/">[!LinkedIn]</a>
 
 
